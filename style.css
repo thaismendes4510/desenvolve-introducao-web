@@ -1,0 +1,12 @@
+/* Color Theme Swatches in Hex */
+.Teal-and-Mint-1-hex { color: #C7FFED; }
+.background { color: #D8FFDB; }
+.Teal-and-Mint-3-hex { color: #008F8C; }
+.cor-principal { color: #015958; }
+.Teal-and-Mint-5-hex { color: #023535; }
+
+html {
+    background:#D8FFDB;
+    color:#015958;
+}
+
